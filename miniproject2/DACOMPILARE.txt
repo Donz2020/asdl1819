@@ -1,0 +1,6 @@
+# Compilare questo file prima di inviare il progetto
+NOME: JOEL
+COGNOME: SINA
+MATRICOLA: 100780
+EMAIL UNICAM: joel.sina@studenti.unicam.it
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2017

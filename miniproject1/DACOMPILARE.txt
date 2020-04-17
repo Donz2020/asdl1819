@@ -1,0 +1,5 @@
+# Compilare questo file prima di inviare il progetto
+NOME: JOEL
+COGNOME: SINA
+MATRICOLA: 100780
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2017/2018
